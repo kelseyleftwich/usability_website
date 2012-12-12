@@ -26,13 +26,13 @@
         
   
         <article>
-        <h1>Surveys</h1>
+        <h1>Project Checklists</h1>
         
         <ul>
-        <li><a href="department_questionnaire.aspx">Departmental Strategic Questionnaire</a></li>
-        <li><a href="perceived_usefulness_survey.aspx">Perceived Usefulness and Ease of Use</a></li>
-        <li><a href="umkc_web_survey.aspx">UMKC.edu Web Survey</a></li>
-        <li><a href="portal_survey.aspx">Portal Survey</a></li>
+        <li><a href="enterprise_checklist.aspx">Enterprise Systems</a></li>
+        <li><a href="hardware_checklist.aspx">Hardware</a></li>
+        <li><a href="software_checklist.aspx">Software</a></li>
+        <li><a href="website_checklist.aspx">Websites</a></li>
 		</ul>
             
       </article>

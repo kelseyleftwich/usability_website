@@ -88,4 +88,103 @@ ul, ol {
 	line-height: 2em;	
 }
 
+/*checkbox lists*/
+li.main-ul {
+	list-style-image: url('images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0px 0px 0px 0px;
+}
+li.main-ul-level1 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0px 0px 0px 5px;
+}
+li.main-ul-level2 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0em 0em 3em;
+}
+li.main-ul-level3 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0em 0em 5em;
+}
+li.main-ul-level4 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0em 0em 7em;
+}
+li.main-ul-level5 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;
+	color: #000000;
+	margin: 0em 0em 0em 9em;
+}
+li.main-ul-level6 {
+	list-style-image: url('../images/square_checkbox.gif');
+	list-style-position: inside;
+	font-family: "Calibri";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.33em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: left;b
+	color: #000000;
+	margin: 0em 0em 0em 11em;
+}
 

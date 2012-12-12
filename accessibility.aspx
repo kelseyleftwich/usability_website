@@ -21,7 +21,7 @@
   <article>
     <h1>Accessibility</h1>
     <p>Objective: Products and services should be usable by everyone regardless of age, ability or circumstance.</p>
-    
+    <p><a href="accessibility_guidelines.aspx">Accessibility Guidelines</a></p>
     <h2>Tools</h2>
     <ul>
       <li><a href="documents/Checklist for Accessibility.xlsx">Accessibility Checklist (.xlsx)</a></li>

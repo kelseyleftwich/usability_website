@@ -26,13 +26,16 @@
         
   
         <article>
-        <h1>Surveys</h1>
+        <h1>Resources</h1>
         
         <ul>
-        <li><a href="department_questionnaire.aspx">Departmental Strategic Questionnaire</a></li>
-        <li><a href="perceived_usefulness_survey.aspx">Perceived Usefulness and Ease of Use</a></li>
-        <li><a href="umkc_web_survey.aspx">UMKC.edu Web Survey</a></li>
-        <li><a href="portal_survey.aspx">Portal Survey</a></li>
+        <li><a href="accessibility.aspx">Accessibility</a></li>
+        <li><a href="human-computer_interaction.aspx">Human-Computer Interaction</a></li>
+        <li><a href="search_engine.aspx">Optimizing Webpages for Search Engine Traffic</a></li>
+        <li><a href="security_guidelines.aspx">Security Guidelines</a></li>
+        <li><a href="testing.aspx">Testing</a></li>
+        <li><a href="planning.aspx">Usability Planning</a></li>
+        <li><a href="user_interface_guidelines.aspx">User Interface Guidelines</a></li>
 		</ul>
             
       </article>
