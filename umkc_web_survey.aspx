@@ -26,21 +26,23 @@
         
   
         <article>
-        <h1>Usability Planning</h1>
-        <h2>Resources</h2>
-        <p>UMKC Web Liaisons Group</p>
-        <ul>
-        <li><a href="http://info.umkc.edu/wlg/files/2012/03/Web-Accessibility-Presentation.pdf" target="_blank">Website Accessibility</a> (PDF) - UMKC Web Liaisons Group May 2012</li>
-        <li><a href="http://info.umkc.edu/wlg/files/2011/03/useful-usability-findings.pdf" target="_blank">Useful Usability Findings</a> (PDF) - UMKC Web Liaisons Group March 2011</li>
-        </ul>
         
-        <p>Templates, Forms, and Examples - Usability.gov</p>
-        <ul>
-        <li><a href="http://www.usability.gov/templates/index.html#project" target="_blank">Project Planning</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#design" target="_blank">Design</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#Usability" target="_blank">Usability Testing</a></li>
-      	</ul>
         
+        <a name="form1133692415" id="formAnchor1133692415"></a>
+<script type="text/javascript" src="http://fs25.formsite.com/include/form/embedManager.js?1133692415"></script>
+<script type="text/javascript">
+EmbedManager.embed({
+	key: "http://fs25.formsite.com/res/showFormEmbed?EParam=m%2FOmK8apOTAL104FkIxG2kHp%2BOxx3Si2&1133692415",
+	width: "100%"
+});
+</script>
+<!-- Notes: 
+To control the width of the form, change width: "100%" to any number or percentage.
+To pre-populate fields in the form or to use a custom resize callback, see http://fs25.formsite.com/documentation/embedded-form.html
+-->
+
+
+            
       </article>
   
   <div class="promo_container">

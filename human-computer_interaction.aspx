@@ -26,21 +26,24 @@
         
   
         <article>
-        <h1>Usability Planning</h1>
-        <h2>Resources</h2>
-        <p>UMKC Web Liaisons Group</p>
+        <h1>Human-Computer Interaction</h1>
+        
         <ul>
-        <li><a href="http://info.umkc.edu/wlg/files/2012/03/Web-Accessibility-Presentation.pdf" target="_blank">Website Accessibility</a> (PDF) - UMKC Web Liaisons Group May 2012</li>
-        <li><a href="http://info.umkc.edu/wlg/files/2011/03/useful-usability-findings.pdf" target="_blank">Useful Usability Findings</a> (PDF) - UMKC Web Liaisons Group March 2011</li>
+        <li>Definition: The study, planning, and design of the interaction between people (users) and computers. It is often regarded as the intersection of computer science, behavioral sciences, design and several other fields of study.</li>
+        <li>In general, HCI specialists hold jobs with the following titles: interface designer, usability researcher analyst, usability engineer, user experience specialist, information architect.</li>
+        <li>Specialists help design/guide an implementation of a purchased product through configuration rather than product design/engineering.</li>
+        <li>HCI evaluation approaches could be utilized before a given product is selected.
+        <ul>
+                <li>elevating the importance and value of usability and usefulness as a decision factor for selecting and implementing information systems</li>
+                <li>setting an expectation for future system implementations (including major upgrades) to imbed a minimal set of usability standards into the selection/configuration/implementation process going forward</li>
+                <li>ensure the minimal set of usability standards is consistent with (based on) HCI and/or other accepted approaches</li>
         </ul>
-        
-        <p>Templates, Forms, and Examples - Usability.gov</p>
-        <ul>
-        <li><a href="http://www.usability.gov/templates/index.html#project" target="_blank">Project Planning</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#design" target="_blank">Design</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#Usability" target="_blank">Usability Testing</a></li>
-      	</ul>
-        
+        </li>
+        <li>Usefulness - as opposed to usability - has more to do with product lifecycles, product offerings, and market fluctuations.</li>
+        <li>HCI Objective: create a process that not only helps us bring in the right tools, but also eliminate redundant tools, while creating a functional catalog for end-users to find and select the right tool for the functions they need to perform.</li>
+            
+		</ul>
+            
       </article>
   
   <div class="promo_container">

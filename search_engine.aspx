@@ -26,21 +26,23 @@
         
   
         <article>
-        <h1>Usability Planning</h1>
-        <h2>Resources</h2>
-        <p>UMKC Web Liaisons Group</p>
-        <ul>
-        <li><a href="http://info.umkc.edu/wlg/files/2012/03/Web-Accessibility-Presentation.pdf" target="_blank">Website Accessibility</a> (PDF) - UMKC Web Liaisons Group May 2012</li>
-        <li><a href="http://info.umkc.edu/wlg/files/2011/03/useful-usability-findings.pdf" target="_blank">Useful Usability Findings</a> (PDF) - UMKC Web Liaisons Group March 2011</li>
-        </ul>
+        <h1>Website Search Engine Page Content</h1>
         
-        <p>Templates, Forms, and Examples - Usability.gov</p>
-        <ul>
-        <li><a href="http://www.usability.gov/templates/index.html#project" target="_blank">Project Planning</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#design" target="_blank">Design</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#Usability" target="_blank">Usability Testing</a></li>
-      	</ul>
-        
+        <ol>
+            <li>Submit website directly to Google, Yahoo and Bing</li>
+            <li>Create a Google sitemap</li>
+            <li>Use robots.txt to block folders and specifically include folders you want to be searched</li>
+            <li>Adjust pages
+            	<ul>
+                	<li>Page Title - Should be between 6 and 12 words.</li>
+                    <li>Meta Tag Description - Should be between 12 and 24 words. Maximum space 200 characters</li>
+                    <li>Meta Tag Keywords - Should be between 0 and 48 words. Maximum 1000 characters.</li>
+                	<li>Order should be Page Title, then Meta Tag Description, then Meta Tag Keywords</li>
+                </ul>
+            </li>
+            
+		</ol>
+            
       </article>
   
   <div class="promo_container">

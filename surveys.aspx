@@ -26,21 +26,15 @@
         
   
         <article>
-        <h1>Usability Planning</h1>
-        <h2>Resources</h2>
-        <p>UMKC Web Liaisons Group</p>
-        <ul>
-        <li><a href="http://info.umkc.edu/wlg/files/2012/03/Web-Accessibility-Presentation.pdf" target="_blank">Website Accessibility</a> (PDF) - UMKC Web Liaisons Group May 2012</li>
-        <li><a href="http://info.umkc.edu/wlg/files/2011/03/useful-usability-findings.pdf" target="_blank">Useful Usability Findings</a> (PDF) - UMKC Web Liaisons Group March 2011</li>
-        </ul>
+        <h1>Surveys</h1>
         
-        <p>Templates, Forms, and Examples - Usability.gov</p>
         <ul>
-        <li><a href="http://www.usability.gov/templates/index.html#project" target="_blank">Project Planning</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#design" target="_blank">Design</a></li>
-        <li><a href="http://www.usability.gov/templates/index.html#Usability" target="_blank">Usability Testing</a></li>
-      	</ul>
-        
+        <li>Departmental Strategic Questionnaire</li>
+        <li>Perceived Usefulness and Ease of Use</li>
+        <li>UMKC.edu Web Survey</li>
+        <li>Portal Survey</li>
+		</ul>
+            
       </article>
   
   <div class="promo_container">
