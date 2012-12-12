@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0" />
-	<title>Usage and Usability | UM System</title>
+	<title>Usability and Usefulness | UM System</title>
 	<link rel="stylesheet" type="text/css" href="css/screen_styles.css" />
     <link rel ="stylesheet" type="text/css" href="css/screen_layout_large.css" />
 	<link rel ="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:500px)" href="css/screen_layout_small.css" />
@@ -28,10 +28,10 @@
         <article>
         <h1>Broad Problem Statement:</h1>
         <p>As part of the UM System IT Strategic Plan initiative, technology groups will be gathering information from various perspectives about university services and systems. The goal is to learn more about the use and usability of services offered and start to identify key problem areas. Information will be gathered via heuristic evaluations, surveys and interviews from end users, functional leads, technology groups, etc.</p>
-      <br/>
+      
       <h2>Challenge:</h2>
       <p>Obtaining the correct usage statistics and interpreting the data accurately.</p>
-      <br/>
+      
       <h2>Five Facets of Usability</h2>
       <p>We can think of these characteristics as five facets of usability, as different aspects of a system and its user interface that contribute to usability (compare Nielsen, 1993: 25 ff):</p>
       <ol>

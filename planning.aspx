@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0" />
-	<title>Usage and Usability | UM System</title>
+	<title>Usability and Usefulness | UM System</title>
 	<link rel="stylesheet" type="text/css" href="css/screen_styles.css" />
     <link rel ="stylesheet" type="text/css" href="css/screen_layout_large.css" />
 	<link rel ="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:500px)" href="css/screen_layout_small.css" />
@@ -26,41 +26,15 @@
         
   
         <article>
-        <h1>Team</h1>
-        <p><a href="mailto:joanne@missouri.edu">Joanne Boomer</a><br />
-    Title: 
-    System Security Analyst-Prin<br />
-    Department: Security </p>
-  <p><a href="mailto:eathertonn@missouri.edu">Nathan S. Eatherton</a><br />
-    Title: Asocciate Director Customer Service Support<br />
-    Department: Customer Service &amp; Support Services</p>
-  <p><a href="mailto:gittemeiert@missouri.edu">Tom Gittemeier</a> - <br />
-    Title: 
-    Assistant Manager - Information Technology<br />
-    Department: Applications & Training </p>
-  <p><a href="mailto:goodenowa@mail.umkc.edu">Andrew J. Goodenow</a> -<br />
-    Title: 
-    Associate CIO<br />
-    Department: Information Access</p>
-  <p><a href="mailto:jerryh@mst.edu">Jerry L. Hammons</a> <br />
-    Title: 
-    Interim Director of Enterprise Systems & Applications<br />
-    Department: Enterprise System & Applications </p>
-  <p><a href="mailto:HoughB@missouri.edu">Brandon D. Hough</a> <br />
-    Title: 
-    Manager IT Security<br />
-    Department: Security </p>
-  <p><a href="mailto:osullivana@missouri.edu">Abigail R. OSullivan</a> <br />
-    Title: 
-    Manager User Services Computing<br />
-    Department: Customer Service & Support Services </p>
-  <p><a href="mailto:paul_pratte@umsl.edu">Paul S. Pratte</a><br/>
-    Title: Director IT Admin Services<br />
-    Department: ITS Operations</p>
-  <p><a href="mailto:ReisenbichlerM@umkc.edu">Marilyn B. Reisenbichler</a><br />
-    Title: Director IS Support Services<br />
-    Department: Support Services</p>
+        <h1>Usability Planning</h1>
+        <h2>Resources</h2>
+        <p>UMKC Web Liaisons Group</p>
+        <ul>
+        <li><a href="http://info.umkc.edu/wlg/files/2012/03/Web-Accessibility-Presentation.pdf" target="_blank">Website Accessibility</a> (PDF) - UMKC Web Liaisons Group May 2012</li>
+        <li><a href="http://info.umkc.edu/wlg/files/2011/03/useful-usability-findings.pdf" target="_blank">Useful Usability Findings</a> (PDF) - UMKC Web Liaisons Group March 2011</li>
+        </ul>
         
+      
       </article>
   
   <div class="promo_container">
