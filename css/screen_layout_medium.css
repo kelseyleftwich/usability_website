@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+header { height: 125px;}
+
+header a.logo {
+	top: 85px; right: 20px;
+	font-size: 1.5em;
+}
+
+header a.small_logo{
+	visibility: hidden;
+}
+
+nav { top: 125px; }
+nav a { margin-right: 20px; }
+
+.promo_container { padding: 15px 20px 15px 20px; }
+
+.promo_container .promo { background-position: 0px 0px; }
+
+.promo_container .promo .content { padding: 70px 30px 0px 0px; }
+
+body { background-image: none; }
+
+.page {
+	border: none;
+}
