@@ -16,14 +16,14 @@
 <body>
 
 	<div class="page">
-
-		<!--<header>
-  			<a class="logo" href="#"><h1>Usability &amp; Usefulness</h1></a>
-            <a class="small_logo" href="#">
-          	<h1>Usability &amp; <br/> Usefulness</h1></a>
-  		</header>-->
+		
+       
         
-        <!--#include virtual="includes/header.html"-->
+		<header>
+  			 <!--#include virtual="includes/header.html"-->
+  		</header>
+        
+        
   
         <article>
         <h1>Broad Problem Statement:</h1>
@@ -74,9 +74,7 @@
     <div class="clear-fix"></div>
     
   </div>
-  <nav> <a href="#">Home</a> <a href="#">Project Checklists</a> <a href="#">Research</a> <a href="#">Team</a> <a href="#">Resources</a></nav>
-  <footer>Usage and Usability - UM System<br/>
-Email: infoaccess@umkc.edu | Phone: (816) 235-1096</footer>
+  <!--#include virtual="includes/navigation.html"-->
 </div>
 </body>
 </html>

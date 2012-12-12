@@ -16,32 +16,51 @@
 <body>
 
 	<div class="page">
-
-		<!--<header>
-  			<a class="logo" href="#"><h1>Usability &amp; Usefulness</h1></a>
-            <a class="small_logo" href="#">
-          	<h1>Usability &amp; <br/> Usefulness</h1></a>
-  		</header>-->
+		
+       
         
-        <!--#include virtual="includes/header.html"-->
+		<header>
+  			 <!--#include virtual="includes/header.html"-->
+  		</header>
+        
+        
   
         <article>
-        <h1>Broad Problem Statement:</h1>
-        <p>As part of the UM System IT Strategic Plan initiative, technology groups will be gathering information from various perspectives about university services and systems. The goal is to learn more about the use and usability of services offered and start to identify key problem areas. Information will be gathered via heuristic evaluations, surveys and interviews from end users, functional leads, technology groups, etc.</p>
-      <br/>
-      <h2>Challenge:</h2>
-      <p>Obtaining the correct usage statistics and interpreting the data accurately.</p>
-      <br/>
-      <h2>Five Facets of Usability</h2>
-      <p>We can think of these characteristics as five facets of usability, as different aspects of a system and its user interface that contribute to usability (compare Nielsen, 1993: 25 ff):</p>
-      <ol>
-      <li>Learnability</li>
-      <li>Rememberability</li>
-      <li>Efficiency in use</li>
-      <li>Reliability in use</li>
-      <li>User satisfaction</li>
-      </ol>
-      
+        <h2>Team</h2>
+        <p><a href="mailto:joanne@missouri.edu">Joanne Boomer</a><br />
+    Title: 
+    System Security Analyst-Prin<br />
+    Department: Security </p>
+  <p><a href="mailto:eathertonn@missouri.edu">Nathan S. Eatherton</a><br />
+    Title: Asocciate Director Customer Service Support<br />
+    Department: Customer Service &amp; Support Services</p>
+  <p><a href="mailto:gittemeiert@missouri.edu">Tom Gittemeier</a> - <br />
+    Title: 
+    Assistant Manager - Information Technology<br />
+    Department: Applications & Training </p>
+  <p><a href="mailto:goodenowa@mail.umkc.edu">Andrew J. Goodenow</a> -<br />
+    Title: 
+    Associate CIO<br />
+    Department: Information Access</p>
+  <p><a href="mailto:jerryh@mst.edu">Jerry L. Hammons</a> <br />
+    Title: 
+    Interim Director of Enterprise Systems & Applications<br />
+    Department: Enterprise System & Applications </p>
+  <p><a href="mailto:HoughB@missouri.edu">Brandon D. Hough</a> <br />
+    Title: 
+    Manager IT Security<br />
+    Department: Security </p>
+  <p><a href="mailto:osullivana@missouri.edu">Abigail R. OSullivan</a> <br />
+    Title: 
+    Manager User Services Computing<br />
+    Department: Customer Service & Support Services </p>
+  <p><a href="mailto:paul_pratte@umsl.edu">Paul S. Pratte</a><br/>
+    Title: Director IT Admin Services<br />
+    Department: ITS Operations</p>
+  <p><a href="mailto:ReisenbichlerM@umkc.edu">Marilyn B. Reisenbichler</a><br />
+    Title: Director IS Support Services<br />
+    Department: Support Services</p>
+        
       </article>
   
   <div class="promo_container">
@@ -74,9 +93,7 @@
     <div class="clear-fix"></div>
     
   </div>
-  <nav> <a href="#">Home</a> <a href="#">Project Checklists</a> <a href="#">Research</a> <a href="#">Team</a> <a href="#">Resources</a></nav>
-  <footer>Usage and Usability - UM System<br/>
-Email: infoaccess@umkc.edu | Phone: (816) 235-1096</footer>
+  <!--#include virtual="includes/navigation.html"-->
 </div>
 </body>
 </html>
