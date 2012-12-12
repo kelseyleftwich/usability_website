@@ -8,7 +8,6 @@ header a.logo {
 	display: block;
 	position: absolute;
 	background-position: 0px 0px;
-	background-repeat: no-repeat;
 }
 
 header a.small_logo{
@@ -26,7 +25,11 @@ nav {
 
 /* Layout Large Screens (default for older browsers) */
 
-header { height: 175px; }
+header {
+	height: 175px;
+	background: #fff url('../images/umseal_large.jpg') no-repeat right;
+		
+}
 header a.logo { top: 125px; left: 20px; text-decoration: none; font-size: 2em;}
 
 article { padding: 60px 20px 10px 20px; }

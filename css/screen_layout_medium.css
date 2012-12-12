@@ -2,7 +2,7 @@
 
 /* Layout Medium Screens */
 
-header { height: 125px;}
+header { height: 125px; background: #fff url('../images/umseal_medium.jpg') no-repeat right;}
 
 header a.logo {
 	top: 85px; right: 20px;
@@ -14,7 +14,7 @@ header a.small_logo{
 }
 
 nav { top: 125px; }
-nav a { margin-right: 20px; }
+nav a { margin-right: 15px; }
 
 .promo_container { padding: 15px 20px 15px 20px; }
 

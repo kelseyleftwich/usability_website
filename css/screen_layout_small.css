@@ -2,7 +2,7 @@
 
 /* Layout Small Screens */
 
-header { height: 80px;}
+header { height: 80px; background: #fff url('../images/umseal_small.jpg') no-repeat right bottom;}
 
 header a.logo {
 	visibility: hidden;
@@ -14,7 +14,7 @@ header a.small_logo{
 	display: block;
 	top: 15px;
 	left: 15px;
-	font-size: 1.25em;
+	font-size: 1.15em;
 	visibility: visible;
 	line-height: 1.75em;
 }
